@@ -10,6 +10,8 @@ website:
         href: index.qmd
       - text: "Hello Post"
         href: hello.ipynb  # Link directly to the notebook
+      - text: "Second Test"
+        href: Blogpost 2 - test.ipynb  # Link directly to the notebook
 
 format:
   html:
