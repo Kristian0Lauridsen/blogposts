@@ -5,3 +5,4 @@ title: "Welcome to My Blog"
 Welcome to my blog! Here are some posts to check out:
 
 - [Hello World](hello.ipynb)
+- [Test2](Blogpost 2 - test.ipynb)

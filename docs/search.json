@@ -7,6 +7,20 @@
     "text": "Welcome to my blog! Here are some posts to check out:\n\nHello World"
   },
   {
+    "objectID": "Blogpost 2 - test.html",
+    "href": "Blogpost 2 - test.html",
+    "title": "Quarto Basics",
+    "section": "",
+    "text": "This is another test"
+  },
+  {
+    "objectID": "Blogpost 2 - test.html#hello",
+    "href": "Blogpost 2 - test.html#hello",
+    "title": "Quarto Basics",
+    "section": "",
+    "text": "This is another test"
+  },
+  {
     "objectID": "about.html",
     "href": "about.html",
     "title": "About",
