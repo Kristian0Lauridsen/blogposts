@@ -1,0 +1,7 @@
+---
+title: "Welcome to My Blog"
+---
+
+Welcome to my blog! Here are some posts to check out:
+
+- [Hello World](hello.ipynb)
