@@ -4,4 +4,4 @@ title: "Welcome to My Blog"
 
 Welcome to my blog! I primarily talk about datascience here. Ive just posted my first blogpost below!:
 
-- [Test2](Fast development & deployment of deep learning applications.ipynb)
+- [Fast development & deployment of deep learning applications](Fast development & deployment of deep learning applications.ipynb)
