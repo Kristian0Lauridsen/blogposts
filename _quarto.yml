@@ -3,15 +3,15 @@ project:
   output-dir: docs
 
 website:
-  title: "My Quarto Blog"
+  title: "Kristian Lauridsen Blog"
   navbar:
     left:
       - text: "Home"
         href: index.qmd
       - text: "Hello Post"
         href: hello.ipynb  # Link directly to the notebook
-      - text: "Second Test"
-        href: Blogpost 2 - test.ipynb  # Link directly to the notebook
+      - text: "First Blogpost"
+        href: Fast development & deployment of deep learning applications.ipynb  # Link directly to the notebook
 
 format:
   html:

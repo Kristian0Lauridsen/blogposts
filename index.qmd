@@ -2,7 +2,6 @@
 title: "Welcome to My Blog"
 ---
 
-Welcome to my blog! Here are some posts to check out:
+Welcome to my blog! I primarily talk about datascience here. Ive just posted my first blogpost below!:
 
-- [Hello World](hello.ipynb)
-- [Test2](Blogpost 2 - test.ipynb)
+- [Test2](Fast development & deployment of deep learning applications.ipynb)
